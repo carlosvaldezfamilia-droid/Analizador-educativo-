@@ -1,0 +1,11 @@
+Archivo: prueba.txt
+Extensión: .txt
+Tamaño: 118 bytes
+SHA-256: 96ec511d61cb9074da61fc509e680574e40656ed0ab57e7410d47347750b0003
+Indicadores: powershell, base64
+Puntuación: 4
+Riesgo: medio
+Reglas: bajo 0–2, medio 3–6, alto desde 7.
+Cada indicador suma una sola vez.
+Encontrar indicadores no demuestra que exista malware.
+Un riesgo bajo tampoco garantiza seguridad.

@@ -1,0 +1,4 @@
+Este es un archivo inofensivo para la clase.
+Las siguientes palabras sirven para probar las reglas:
+powershell
+base64
